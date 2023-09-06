@@ -1,8 +1,13 @@
-# Muhammad Arshad
+# Muhammad Arshad 
 
-- Phone: 0092-322-3000321
-- E-mail: mrarshad.n@gmail.com
-- LinkedIn: [linkedin.com/in/mrarshad](linkedin.com/in/mrarshad)
+<img src="marshad.svg" width='8%' align="right" title="Muhammad Arshad">
+
+<span align="left">
+
+  - 📞 Phone: +923223000321
+  - E-mail: mrarshad.n@gmail.com
+  - LinkedIn: [https://linkedin.com/in/mrarshad](https://linkedin.com/in/mrarshad)
+</span>
 
 ---
 
@@ -10,12 +15,13 @@
 
 I am an experienced LAMP/full-stack developer with over 10 years of experience in web development and APIs integrations. I have completed a wide variety of business development and marketing projects, including web design, Facebook ads campaigns, coding repairs, and website customization.
 
----
+
 
 ## Skills
-
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,jquery,bootstrap,mysql,git,laravel,nodejs,aws,docker,redis)]( )
 - **Programming Languages:** PHP, JavaScript, Groovy, NodeJS
 - **Web Technologies:** Joomla, Fabrik, JQuery, AJAX, XML, SOAP, REST, Bootstrap, UI_Kit, CSS
+- **PaymentGateways:** Stripe, SlimSd, JazzCash 
 - **Databases:** MySQL, Redis, MariaDB
 - **Frameworks:** Drupal, Laravel, Yii2, CodeIgniter, Kohana
 - **API Integration:** Facebook, Twitter, Google, Tumblr, LinkedIn, Airbnb, Flipkey/TripAdvisor, Marriott, Samsung Smartthings, Arduino
@@ -27,57 +33,27 @@ I am an experienced LAMP/full-stack developer with over 10 years of experience i
 - **Issue Tracking:** JIRA
 - **Development Environment:** Docker, PHP Storm, Netbeans
 
-| Skill                     | Proficiency     |
-|---------------------------|-----------------|
-| PHP                       | Excellent       |
-| Joomla                    | Excellent       |
-| Fabrik                    | Excellent       |
-| JavaScript                | Very Good       |
-| JQuery                    | Very Good       |
-| AJAX                      | Very Good       |
-| XML                       | Very Good       |
-| SOAP                      | Excellent       |
-| REST                      | Very Good       |
-| Bootstrap                 | Very Good       |
-| UI_Kit                    | Very Good       |
-| CSS                       | Very Good       |
-| MySQL                     | Excellent       |
-| Redis                     | Very Good       |
-| MariaDB                   | Very Good       |
-| Drupal                    | Good            |
-| Laravel                   | Good            |
-| Yii2                      | Good            |
-| CodeIgniter               | Good            |
-| Kohana                    | Good            |
-| Facebook APIs             | Excellent       |
-| Twitter APIs              | Very Good       |
-| Google APIs               | Very Good       |
-| Tumblr APIs               | Very Good       |
-| LinkedIn APIs             | Good            |
-| Airbnb APIs               | Good            |
-| Flipkey/TripAdvisor API   | Good            |
-| Marriott APIs             | Good            |
-| Arduino                   | Good            |
-| NodeMcu                   | Good            |
-| Groovy                    | Good            |
-| Smartthings               | Good            |
-| NodeJS                    | Good            |
-| Vue.js                    | Very Good       |
-| GraphQL                   | Good            |
-| PM2                       | Good            |
-| Fresque                   | Good            |
-| Reddis                    | Very Good       |
-| AWS                       | Good            |
-| WordPress                 | Excellent       |
-| Magento 1.X               | Very Good       |
-| Symfony                   | Good            |
-| Servers                   | Excellent       |
-| Github                    | Very Good       |
-| SVN                       | Good            |
-| JIRA                      | Good            |
-| Docker                    | Good            |
-| PHP Storm                 | Good            |
-| Netbeans                  | Good            |
+  <table>
+    <thead>
+      <tr><td><h3><b>Skill</b></h3></td><td><h3><b>Proficiency</b></h3></td></tr>
+    </thead>
+    <tbody>
+      <tr><td>PHP | Joomla | Fabrik</td><td><center>Excellent<br> &nbsp;♦♦♦♦♦</center></td></tr>
+      <tr><td> JavaScript | JQuery | AJAX | XML | SOAP | REST </td><td><center>Excellent<br> &nbsp;♦♦♦♦♦</center></td></tr>
+      <tr><td> Bootstrap | UI_Kit | CSS </td><td><center>Excellent<br> &nbsp;♦♦♦♦♦</center></td></tr>
+      <tr><td> MySQL | Reddis | MariaDB </td><td><center>Very Good<br> &nbsp;♦♦♦♦◇</center></td></tr>
+      <tr><td> Drupal | Laravel | Yii2 | CodeIgniter | Kohana </td><td><center>Very Good<br> &nbsp;♦♦♦♦◇</center></td></tr>
+      <tr><td> Facebook APIs | Twitter APIs | Google APIs | Tumblr APIs | LinkedIn APIs </td><td><center>Very Good<br> &nbsp;♦♦♦♦◇</center></td></tr>
+      <tr><td> Airbnb APIs | Flipkey/TripAdvisor API | Marriott APIs </td><td><center>Very Good<br> &nbsp;♦♦♦♦◇</center></td></tr>
+      <tr><td> Arduino | NodeMcu | Groovy
+Smartthings	Good</td><td><center>&nbsp;&nbsp;&nbsp;Good<br> &nbsp;♦♦♦◇◇</center></td></tr>
+      <tr><td>NodeJS | Vue.js	| GraphQL | PM2</td><td><center>&nbsp;&nbsp;&nbsp;Good<br> &nbsp;♦♦♦◇◇</center></td></tr>
+      <tr><td>Fresque | Reddis | AWS </td><td><center>&nbsp;&nbsp;&nbsp;Good<br> &nbsp;♦♦♦◇◇</center></td></tr>
+      <tr><td>Wordpress | Magento 1.X | Symfony </td><td><center>&nbsp;&nbsp;&nbsp;Good<br> &nbsp;♦♦♦◇◇</center></td></tr>
+      <tr><td><b>Servers :</b> Apache | Centos | Ubuntu | EC2 </td><td><center>&nbsp;&nbsp;&nbsp;Good<br> &nbsp;♦♦♦◇◇</center></td></tr>
+      <tr><td> Github | SVN | JIRA | Docker</td><td><center>&nbsp;&nbsp;&nbsp;Good<br> &nbsp;♦♦♦◇◇</center></td></tr>
+    </tbody>
+  </table>
 
 ---
 
@@ -85,20 +61,21 @@ I am an experienced LAMP/full-stack developer with over 10 years of experience i
 
 - Huawei HCNP (Routing and Switching)
 - HomeAway Hackathon 2019 (Runner-up)
-- Completed "Clean Coder" video course by Robert Martin
-- Completed book summary "Refactoring" by Martin Fowler
+- Completed **Clean Coder video course by Robert Martin**
+- Completed book summary **Refactoring by Martin Fowler**
 
 ---
 
 ## Work History
 
-### SkyRun Inc. (Nov 2020 - Sep 2023)
+### SkyRun Inc. (Nov 2020 - Aug 2023)
 
 - Position: Lead PHP Developer
 - Description: Cross-platform integrations, API's 2-way sync with partners for bookings management.
 - Technologies: GraphQL, Vue.js, PM2, Laravel, Composer, Docker, Joomla 3.X, Fabrik Joomla
+- SlimSd and Stripe Payment gateways Integration
 
-### SlimSd and Stripe Payment gateways Integration (Nov 2019 - Nov 2020)
+### Contour Softwares (Nov 2019 - Nov 2020)
 
 - Position: Senior Software Developer
 - Description: Management of Social API, especially Facebook APIs, PHP development using customized solutions, other web APIs integrations, experience with multisite WordPress technologies, monitored ongoing operation of assigned programs and responded to problems by diagnosing and correcting logic and coding errors.
@@ -122,15 +99,15 @@ I am an experienced LAMP/full-stack developer with over 10 years of experience i
 
 ## Education
 
-- **MS Computer Science (2018-09 - 2020-09)**
+- **MS Computer Science ( Sep 2018 - Sep 2020)**
   - FAST National University
   - GPA: 3.41 / 4
 
-- **MSc Information Technology: IT (2011-09 - 2013-09)**
+- **MSc Information Technology: IT (Sep 2011 - Sep 2013)**
   - Punjab University College Of Information Technology - LHR
   - GPA: 3.47 / 4
 
-- **B.COM: IT (2009-09 - 2011-08)**
+- **B.COM: IT (Sep 2009 - Aug 2011)**
   - Punjab University - Lahore
   - Marks: 68%
 
